@@ -1,47 +1,38 @@
 {
     "curseFiles": [
         {
-            //Skin
             "projectID": 521480,
             "fileID": 3739536
         },
         {
-            //JourneyMap
             "projectID": 32274,
             "fileID": 3696405
         },
         {
-            //HUD
             "projectID": 357540,
             "fileID": 3565981
         },
         {
-            //SECU
             "projectID": 64760,
             "fileID": 3696873
         },
         {
-            //MCA
             "projectID": 535291,
             "fileID": 3739954
         },
         {
-            //CAM
             "projectID": 289310,
             "fileID": 3695199
         },
         {
-            //WAND
             "projectID": 399558,
             "fileID": 3712396
         },
         {
-            //DRAWER
             "projectID": 223852,
             "fileID": 3693181
         },
         {
-            //DUNGEAONS
             "projectID": 474817,
             "fileID": 3739601
         }
